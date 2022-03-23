@@ -1,7 +1,7 @@
-## SHapeTester
+# ShapeTester
 
 
-# Main
+## Main
 import java.util.Scanner; 
 public class Main{
   public static void main(String[] args) {
@@ -41,7 +41,7 @@ System.out.println("Enter pyramid height: ");
 }
 
 
-# Box 
+## Box 
 public class Box{
   private int l;
   private int w;
@@ -71,7 +71,7 @@ public class Box{
 }
 
 
-# Sphere 
+## Sphere 
 public class Sphere{
   private int r;
   private int h;
@@ -96,7 +96,7 @@ public class Sphere{
 }
 
 
-# Pyramid  
+## Pyramid  
 public class Pyramid{
   private int l;
   private int w;
